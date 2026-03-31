@@ -1472,7 +1472,7 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Sulphuric Acid (Less than 1 ppm or 1 ppm / between 1-5 ppm) Market',
+      market_name: 'Sodium Sulphide 60% Market',
       market_type: 'Market Analysis',
       industry: 'Chemicals & Materials',
       years: allYears,

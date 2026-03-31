@@ -212,7 +212,7 @@ export default function DashboardPage() {
                 Coherent Dashboard
               </h1>
               <h2 className="text-sm text-black">
-                {dashboardName || 'Sulphuric Acid (Less than 1 ppm or 1 ppm / between 1-5 ppm) Market Assessment'}
+                {dashboardName || 'Sodium Sulphide 60% Market Assessment'}
               </h2>
             </div>
           </div>
