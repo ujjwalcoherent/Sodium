@@ -1,326 +1,314 @@
 {
   "South Africa": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Ghana": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Mali": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Burkina Faso": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Tanzania": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Côte d'Ivoire": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Zimbabwe": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Democratic Republic of the Congo": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Guinea": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Sudan": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Russia": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   },
   "Australia": {
-    "By Mercury Specification": {
-      "Sulphuric Acid (Hg <1 ppm)": {},
-      "Sulphuric Acid (Hg 1–5 ppm)": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+    "By Product Specification": {
+      "Sodium Sulphide 60% Flakes": {},
+      "Sodium Sulphide 60% Technical Grade": {},
+      "Sodium Sulphide 60% Industrial Grade": {},
+      "Other Mining-Use Specifications": {}
     },
-    "By Concentration / Strength": {
-      "93–96% H2SO4": {},
-      "96–98% H2SO4": {},
-      "Other Specialty Strengths": {}
+    "By Application": {
+      "Sulfidization for Flotation": {},
+      "Sulphide Flotation Support": {},
+      "Pyrite Reactivation / Recovery": {},
+      "Metallurgical Testwork & Lab Use": {}
     },
-    "By Application in Gold Mining Value Chain": {
-      "Cyanide Destruction / Caro's Acid Preparation": {},
-      "Precious Metals Refining / Affination": {},
-      "Metallurgical Laboratory & Testwork Use": {},
-      "Ancillary Process Use": {}
+    "By Process Stage": {
+      "Ore Conditioning": {},
+      "Primary Flotation": {},
+      "Secondary Sulphide / Pyrite Recovery": {},
+      "Laboratory / Pilot Testing": {}
     },
     "By End User": {
-      "Gold Mining Companies": {},
-      "Gold Processing Plants": {},
-      "Precious Metals Refineries": {},
-      "Mine Site Laboratories": {},
-      "Third-Party Metallurgical / Assay Laboratories": {}
+      "Gold Mines": {},
+      "Gold-Copper Mining Operations": {},
+      "Metallurgical Laboratories": {},
+      "Mineral Processing Service Providers": {}
     }
   }
 }
